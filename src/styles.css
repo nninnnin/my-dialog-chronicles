@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  width: 50%;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: violet;
+  color: white;
+}
+
+.small {
+  width: 200px;
+  background-color: yellowgreen;
+  padding: 1em;
+}
+
+.left {
+  margin-right: auto;
+}
+
+.right {
+  margin-left: auto;
+}
+
+button {
+  margin-top: 1em;
+}
